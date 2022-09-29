@@ -3,6 +3,14 @@ html {
     background-color: #ddd;
     font: 14px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+button {border: none;
+    outline: none;
+    background-color: transparent;
+    margin-right: 5px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 3px;
+  font-family: roboto, arial, sans-serif;
 .editable {
     border: 1px solid #aaa;
     font: 14px Georgia, serif;
