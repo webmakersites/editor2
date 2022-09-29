@@ -11,6 +11,7 @@ button {border: none;
     padding: 10px;
     border-radius: 3px;
   font-family: roboto, arial, sans-serif;
+}
 .editable {
     border: 1px solid #aaa;
     font: 14px Georgia, serif;
@@ -92,11 +93,11 @@ body {
 }
 .sel-start {
     min-height: 6px;
-    background-color: green;
+   /* background-color: green;*/
 }
 .sel-end {
     min-height: 6px;
-    background-color: red;
+    /*background-color: red;*/
 }
 
 .caret {
