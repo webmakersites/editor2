@@ -2,7 +2,7 @@
 
 Rich text editor **with no contentEditable** and **no dependency on browser selection or ranges**.
 
-<button href="https://webmakersites.github.io/editor2/">Click here for a demo</button>
+<a href="https://webmakersites.github.io/editor2/">Click here for a demo</a>
 
 Having written a pretty robust rich text editor based on contentEditable/getSelection and then seen it have horrific 
 performance issues with recent versions of IE, and even more horrific accessibility issues everywhere, and weird
