@@ -1,7 +1,7 @@
 
 html {
     background-color: #ddd;
-    font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 14px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .editable {
     border: 1px solid #aaa;
